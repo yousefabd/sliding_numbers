@@ -1,0 +1,2 @@
+C:\Users\LEGION\Source\Repos\second_lab\x64\Debug\second_lab.exe
+C:\Users\LEGION\Desktop\open gl\second_lab\x64\Debug\puzzle_game.exe

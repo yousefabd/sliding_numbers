@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (second_lab.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  second_lab.vcxproj -> C:\Users\LEGION\Desktop\open gl\second_lab\x64\Debug\puzzle_game.exe
